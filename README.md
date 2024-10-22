@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @mhdnabilkml
 - 👀 I’m interested in Data Analytics & Geospatial Analysis.
 - 🌱 I’m currently learning ETL pipelines and SQL.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Kaggle competitions.
+- 📫 How to reach me - You can't.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Coffee.
 
 <!---
 mhdnabilkml/mhdnabilkml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
